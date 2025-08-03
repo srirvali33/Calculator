@@ -1,0 +1,34 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: Verdana, sans-serif;
+  height: 400px;
+}
+
+.display {
+  background-color: black;
+  color: white;
+  margin-bottom: 5px !important;
+}
+
+button {
+  border-radius: 20%;
+  margin: 1px !important;
+}
+.f1whvlc6 {
+  margin-bottom: 3px !important;
+}
+
+.span-2 {
+  button {
+    width: 49% !important;
+  }
+}
+
+.span-2.equal {
+  .fwiml72:nth-child(2) {
+    background: #91b8b3 !important;
+  }
+}
